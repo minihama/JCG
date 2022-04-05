@@ -1,4 +1,4 @@
-public class main{
+public class java_2021_2_54{
     public static void main(String []args){
        int i, j;
        for(j=0, i=0;i<=5;i++){
